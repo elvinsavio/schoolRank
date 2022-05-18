@@ -1,6 +1,6 @@
 
 ## JSON creator
-Create the sample list in { <schoolname> : <score>, .... }
+Create the sample list in { schoolname : score, .... }
 <br/> with the jsoncreator.py file
 takes 1 argument of int 
 ```
